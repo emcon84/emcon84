@@ -1,6 +1,6 @@
 # Hi, I'm Emiliano Conti 👋
 
-Software Engineer focused on clean, scalable architectures — TypeScript across the stack, from API design to AI-assisted tooling.
+Software Frontend Engineer focused on clean, scalable architectures — TypeScript across the stack, from API design to AI-assisted tooling.
 
 ## 🛠️ Tech Stack
 
