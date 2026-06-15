@@ -55,7 +55,7 @@ A decentralized platform for citizens to report urban issues (trash, broken stre
 
 # ¡Hola! Soy Emiliano Conti 👋
 
-Software Engineer enfocado en arquitecturas limpias y escalables — TypeScript en todo el stack, desde el diseño de APIs hasta herramientas asistidas por IA.
+Software Frontend Engineer enfocado en arquitecturas limpias y escalables — TypeScript en todo el stack, desde el diseño de APIs hasta herramientas asistidas por IA.
 
 ## 🚀 Proyectos destacados
 
